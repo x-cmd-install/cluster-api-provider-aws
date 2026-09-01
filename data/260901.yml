@@ -1,0 +1,62 @@
+about:
+  description: Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of "self-managed" and EKS Kubernetes clusters on AWS.
+  license: Apache-2.0
+  homepage: http://cluster-api-aws.sigs.k8s.io/
+  head: e047980
+  archived: false
+  latestVersion: v2.13.0
+  collectedAt: 2026-09-01T05:19:26Z
+timeline:
+  created: 2018-07-19
+  lastCommit: 2026-08-31
+  lastRelease: 2026-07-29
+popularity:
+  star: 727
+  watcher: 32
+  fork: 699
+  release: 102
+  contributor: 670
+  pullRequest: 1031
+  issue: 1869
+language:
+  Go: 5756972
+  Shell: 65500
+  Makefile: 40716
+  Python: 22690
+  Dockerfile: 3477
+  Starlark: 1097
+  Go Template: 579
+totalLine: 5891031
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 6
+    openPR: 15
+    closedIssue: 0
+    openIssue: 1
+    commit: 4
+  last90d:
+    since: 2026-06-03
+    release: 2
+    mergedPR: 76
+    openPR: 23
+    closedIssue: 13
+    openIssue: 23
+    commit: 81
+  last180d:
+    since: 2026-03-05
+    release: 5
+    mergedPR: 165
+    openPR: 32
+    closedIssue: 18
+    openIssue: 37
+    commit: 168
+  last360d:
+    since: 2025-09-06
+    release: 11
+    mergedPR: 284
+    openPR: 45
+    closedIssue: 48
+    openIssue: 43
+    commit: 286
