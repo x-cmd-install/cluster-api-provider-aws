@@ -7,7 +7,7 @@ about:
   head: 16bdd08
   archived: false
   latestVersion: v2.13.0
-  collectedAt: 2026-09-04T19:43:53Z
+  collectedAt: 2026-09-04T20:51:05Z
 timeline:
   created: 2018-07-19
   lastCommit: 2026-09-03
@@ -86,6 +86,89 @@ total:
   openIssue: 170
   commit: 5818
 ---
+path: /home/runner/.x-repo/github.com/kubernetes-sigs/cluster-api-provider-aws
+collectedAt: 2026-09-04T20:51:10Z
+loc:
+  Go:
+    code: 145679
+    comments: 24066
+    blanks: 19582
+    files: 675
+  Yaml:
+    code: 112500
+    comments: 633
+    blanks: 402
+    files: 297
+  Sh:
+    code: 866
+    comments: 578
+    blanks: 262
+    files: 26
+  Makefile:
+    code: 761
+    comments: 140
+    blanks: 227
+    files: 6
+  Css:
+    code: 472
+    comments: 43
+    blanks: 73
+    files: 1
+  Python:
+    code: 470
+    comments: 97
+    blanks: 120
+    files: 7
+  Pan:
+    code: 251
+    comments: 37
+    blanks: 37
+    files: 5
+  Svg:
+    code: 165
+    comments: 147
+    blanks: 64
+    files: 4
+  Json:
+    code: 158
+    comments: 0
+    blanks: 0
+    files: 7
+  Hcl:
+    code: 139
+    comments: 0
+    blanks: 23
+    files: 1
+  Toml:
+    code: 65
+    comments: 3
+    blanks: 12
+    files: 3
+  Dockerfile:
+    code: 46
+    comments: 66
+    blanks: 17
+    files: 3
+  Handlebars:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 41452
+    blanks: 2930
+    files: 113
+  Text:
+    code: 0
+    comments: 124
+    blanks: 19
+    files: 10
+total:
+  code: 264802
+  comments: 67552
+  blanks: 23824
+  files: 1159
 ---
 date: "2026-08-24"
 repo:
