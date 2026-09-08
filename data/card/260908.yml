@@ -5,7 +5,7 @@ about:
   head: 16bdd08
   archived: false
   latestVersion: "v2.13.0"
-  collectedAt: 2026-09-08T01:54:06Z
+  collectedAt: 2026-09-08T04:38:18Z
 timeline:
   created: 2018-07-19
   lastCommit: 2026-09-03
@@ -85,7 +85,7 @@ total:
   commit: 5818
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/cluster-api-provider-aws
-collectedAt: 2026-09-08T01:54:15Z
+collectedAt: 2026-09-08T04:38:27Z
 loc:
   Go:
     code: 145679
