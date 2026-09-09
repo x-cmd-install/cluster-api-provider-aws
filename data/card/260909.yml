@@ -2,15 +2,15 @@ about:
   description: "Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of \"self-managed\" and EKS Kubernetes clusters on AWS."
   license: Apache-2.0
   homepage: http://cluster-api-aws.sigs.k8s.io/
-  head: d4fee57
+  head: e88e466
   archived: false
   latestVersion: "v2.13.0"
   latestRelease: "v2.13.0"
   latestPrerelease: "v2.0.0-beta.1"
-  collectedAt: 2026-09-09T04:51:02Z
+  collectedAt: 2026-09-09T18:51:17Z
 timeline:
   created: 2018-07-19
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-07-29
   lastRelease: 2026-07-29
   lastPrerelease: 2022-09-28
@@ -20,81 +20,81 @@ popularity:
   fork: 704
   release: 102
   contributor: 673
-  pullRequest: 4291
+  pullRequest: 4294
   issue: 1872
 language:
-  Go: 5782237
+  Go: 5792438
   Shell: 65500
   Makefile: 40716
   Python: 22690
   Dockerfile: 3633
   Starlark: 1097
   Go Template: 579
-totalBytes: 5916452
+totalBytes: 5926653
 recent:
   last30d:
     since: 2026-08-10
     release: 0
-    mergedPR: 14
-    openPR: 20
+    mergedPR: 18
+    openPR: 19
     closedIssue: 0
     openIssue: 4
-    commit: 0
+    commit: 14
   last60d:
     since: 2026-07-11
     release: 1
-    mergedPR: 51
-    openPR: 24
+    mergedPR: 55
+    openPR: 23
     closedIssue: 5
     openIssue: 8
-    commit: 0
+    commit: 56
   last90d:
     since: 2026-06-11
     release: 2
-    mergedPR: 86
-    openPR: 27
+    mergedPR: 90
+    openPR: 26
     closedIssue: 13
     openIssue: 26
-    commit: 0
+    commit: 87
   last180d:
     since: 2026-03-13
     release: 5
-    mergedPR: 172
-    openPR: 37
-    closedIssue: 19
-    openIssue: 36
-    commit: 0
+    mergedPR: 177
+    openPR: 35
+    closedIssue: 20
+    openIssue: 35
+    commit: 177
   last360d:
     since: 2025-09-14
     release: 10
-    mergedPR: 287
-    openPR: 49
-    closedIssue: 48
-    openIssue: 45
-    commit: 0
+    mergedPR: 292
+    openPR: 47
+    closedIssue: 49
+    openIssue: 44
+    commit: 301
   last720d:
     since: 2024-09-19
     release: 18
-    mergedPR: 554
-    openPR: 50
-    closedIssue: 142
-    openIssue: 68
-    commit: 1022
+    mergedPR: 559
+    openPR: 48
+    closedIssue: 143
+    openIssue: 67
+    commit: 1026
 total:
   release: 102
-  mergedPR: 3255
-  openPR: 52
-  closedIssue: 1702
-  openIssue: 170
-  commit: 5824
+  mergedPR: 3260
+  openPR: 50
+  closedIssue: 1703
+  openIssue: 169
+  commit: 5828
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/cluster-api-provider-aws
-collectedAt: 2026-09-09T04:51:11Z
+collectedAt: 2026-09-09T18:51:31Z
 loc:
   Go:
-    code: 145689
-    comments: 24076
-    blanks: 19592
+    code: 145958
+    comments: 24089
+    blanks: 19606
     files: 675
   Yaml:
     code: 112500
@@ -167,9 +167,9 @@ loc:
     blanks: 19
     files: 10
 total:
-  code: 264812
-  comments: 67564
-  blanks: 23834
+  code: 265081
+  comments: 67577
+  blanks: 23848
   files: 1159
 ---
 date: "2026-09-07"
