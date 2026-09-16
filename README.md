@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.13.0` (2026-07-29)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 727 · **Forks**: 707 · **Open issues**: 1,875 · **Contributors**: 674
+- **Stars**: 727 · **Forks**: 708 · **Open issues**: 1,875 · **Contributors**: 676
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 3270 · **Open PRs**: 53 · **Closed issues**: 1704 · **Open issues**: 171 · **Commits**: 5832
+- **Releases**: 102 · **Merged PRs**: 3273 · **Open PRs**: 51 · **Closed issues**: 1705 · **Open issues**: 170 · **Commits**: 5836
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 27 | 20 | 1 | 6 | 15 |
-| last60d | 2026-07-17 | 1 | 62 | 25 | 5 | 8 | 51 |
-| 90d | 2026-06-17 | 2 | 96 | 28 | 11 | 28 | 84 |
-| last180d | 2026-03-19 | 5 | 181 | 36 | 21 | 37 | 174 |
-| 360d | 2025-09-20 | 10 | 299 | 50 | 48 | 45 | 297 |
-| last720d | 2024-09-25 | 18 | 569 | 51 | 143 | 69 | 1029 |
+| 30d | 2026-08-17 | 0 | 30 | 17 | 2 | 5 | 17 |
+| last60d | 2026-07-18 | 1 | 64 | 23 | 5 | 7 | 53 |
+| 90d | 2026-06-18 | 2 | 99 | 26 | 12 | 27 | 86 |
+| last180d | 2026-03-20 | 5 | 184 | 34 | 22 | 36 | 176 |
+| 360d | 2025-09-21 | 10 | 302 | 48 | 49 | 44 | 299 |
+| last720d | 2024-09-26 | 18 | 572 | 49 | 144 | 68 | 1033 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for cluster-api-provider-aws lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:06:55Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:56:21Z._
