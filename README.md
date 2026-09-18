@@ -14,11 +14,11 @@ x install cluster-api-provider-aws
 
 ## Code insight
 
-Total: **262,060** lines of code across **1005** files in the top 5 languages.
+Total: **262,087** lines of code across **1006** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 146,160 | 24,087 | 19,618 | 675 |
+| Go | 146,187 | 24,102 | 19,626 | 676 |
 | Yaml | 112,500 | 633 | 402 | 297 |
 | Sh | 866 | 578 | 262 | 26 |
 | Makefile | 761 | 140 | 227 | 6 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.13.0` (2026-07-29)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-17
 - **Assets in release**: 42
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 3273 · **Open PRs**: 51 · **Closed issues**: 1705 · **Open issues**: 171 · **Commits**: 5836
+- **Releases**: 102 · **Merged PRs**: 3277 · **Open PRs**: 51 · **Closed issues**: 1706 · **Open issues**: 170 · **Commits**: 5844
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 30 | 17 | 2 | 6 | 17 |
-| last60d | 2026-07-19 | 1 | 64 | 23 | 5 | 8 | 53 |
-| 90d | 2026-06-19 | 2 | 96 | 26 | 11 | 28 | 86 |
-| last180d | 2026-03-21 | 5 | 184 | 34 | 22 | 36 | 176 |
-| 360d | 2025-09-22 | 10 | 299 | 48 | 49 | 45 | 299 |
-| last720d | 2024-09-27 | 18 | 572 | 49 | 144 | 69 | 1033 |
+| 30d | 2026-08-19 | 0 | 34 | 16 | 3 | 5 | 21 |
+| last60d | 2026-07-20 | 1 | 67 | 24 | 4 | 7 | 57 |
+| 90d | 2026-06-20 | 2 | 99 | 27 | 12 | 27 | 90 |
+| last180d | 2026-03-22 | 5 | 188 | 35 | 23 | 35 | 180 |
+| 360d | 2025-09-23 | 10 | 300 | 48 | 50 | 44 | 303 |
+| last720d | 2024-09-28 | 18 | 576 | 49 | 145 | 68 | 1041 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for cluster-api-provider-aws lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:14:50Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:58:13Z._
