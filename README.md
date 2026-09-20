@@ -4,7 +4,7 @@
 
 Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of "self-managed" and EKS Kubernetes clusters on AWS.
 
-![cluster-api-provider-aws](https://repo.x-cmd.io/cluster-api-provider-aws.svg)
+[![x-cmd/install — cluster-api-provider-aws Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cluster-api-provider-aws.svg)](https://x-cmd.com/install/cluster-api-provider-aws)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install cluster-api-provider-aws
 
 ## Code insight
 
-Total: **262,087** lines of code across **1006** files in the top 5 languages.
+Total: **262,347** lines of code across **1007** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 146,187 | 24,102 | 19,626 | 676 |
+| Go | 146,447 | 24,154 | 19,653 | 677 |
 | Yaml | 112,500 | 633 | 402 | 297 |
 | Sh | 866 | 578 | 262 | 26 |
 | Makefile | 761 | 140 | 227 | 6 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.13.0` (2026-07-29)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 727 · **Forks**: 707 · **Open issues**: 1,876 · **Contributors**: 677
+- **Stars**: 727 · **Forks**: 708 · **Open issues**: 1,879 · **Contributors**: 678
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 3277 · **Open PRs**: 51 · **Closed issues**: 1706 · **Open issues**: 170 · **Commits**: 5844
+- **Releases**: 102 · **Merged PRs**: 3279 · **Open PRs**: 55 · **Closed issues**: 1707 · **Open issues**: 172 · **Commits**: 5852
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 34 | 16 | 3 | 5 | 21 |
-| last60d | 2026-07-20 | 1 | 67 | 24 | 4 | 7 | 57 |
-| 90d | 2026-06-20 | 2 | 99 | 27 | 12 | 27 | 90 |
-| last180d | 2026-03-22 | 5 | 188 | 35 | 23 | 35 | 180 |
-| 360d | 2025-09-23 | 10 | 300 | 48 | 50 | 44 | 303 |
-| last720d | 2024-09-28 | 18 | 576 | 49 | 145 | 68 | 1041 |
+| 30d | 2026-08-21 | 0 | 35 | 20 | 4 | 7 | 27 |
+| last60d | 2026-07-22 | 1 | 57 | 27 | 4 | 9 | 42 |
+| 90d | 2026-06-22 | 2 | 101 | 31 | 13 | 29 | 86 |
+| last180d | 2026-03-24 | 5 | 189 | 39 | 24 | 37 | 181 |
+| 360d | 2025-09-25 | 10 | 301 | 52 | 50 | 46 | 302 |
+| last720d | 2024-09-30 | 18 | 578 | 53 | 146 | 70 | 1049 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for cluster-api-provider-aws lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:58:13Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:04:39Z._

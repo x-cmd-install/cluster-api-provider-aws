@@ -4,7 +4,7 @@
 
 Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of "self-managed" and EKS Kubernetes clusters on AWS.
 
-![cluster-api-provider-aws](https://repo.x-cmd.io/cluster-api-provider-aws.svg?lang=zh)
+[![x-cmd/install — cluster-api-provider-aws Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cluster-api-provider-aws.svg?lang=zh)](https://x-cmd.com/install/cluster-api-provider-aws)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install cluster-api-provider-aws
 
 ## 代码洞察
 
-合计: **262,087** 行代码（覆盖前 5 种语言、共 **1006** 个文件）。
+合计: **262,347** 行代码（覆盖前 5 种语言、共 **1007** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 146,187 | 24,102 | 19,626 | 676 |
+| Go | 146,447 | 24,154 | 19,653 | 677 |
 | Yaml | 112,500 | 633 | 402 | 297 |
 | Sh | 866 | 578 | 262 | 26 |
 | Makefile | 761 | 140 | 227 | 6 |
@@ -43,27 +43,27 @@ x install cluster-api-provider-aws
 ## 发布
 
 - **最新版本**: `v2.13.0` (2026-07-29)
-- **最近提交**: 2026-09-17
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 42 个
 
 ## 流行度
 
-- **Star**: 727 · **Fork**: 707 · **开放 issue**: 1,876 · **贡献者**: 677
+- **Star**: 727 · **Fork**: 708 · **开放 issue**: 1,879 · **贡献者**: 678
 
 ## 累计统计
 
-- **发布数**: 102 · **已合并 PR**: 3277 · **开放 PR**: 51 · **已关闭 issue**: 1706 · **开放 issue**: 170 · **提交数**: 5844
+- **发布数**: 102 · **已合并 PR**: 3279 · **开放 PR**: 55 · **已关闭 issue**: 1707 · **开放 issue**: 172 · **提交数**: 5852
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 34 | 16 | 3 | 5 | 21 |
-| last60d | 2026-07-20 | 1 | 67 | 24 | 4 | 7 | 57 |
-| 90d | 2026-06-20 | 2 | 99 | 27 | 12 | 27 | 90 |
-| last180d | 2026-03-22 | 5 | 188 | 35 | 23 | 35 | 180 |
-| 360d | 2025-09-23 | 10 | 300 | 48 | 50 | 44 | 303 |
-| last720d | 2024-09-28 | 18 | 576 | 49 | 145 | 68 | 1041 |
+| 30d | 2026-08-21 | 0 | 35 | 20 | 4 | 7 | 27 |
+| last60d | 2026-07-22 | 1 | 57 | 27 | 4 | 9 | 42 |
+| 90d | 2026-06-22 | 2 | 101 | 31 | 13 | 29 | 86 |
+| last180d | 2026-03-24 | 5 | 189 | 39 | 24 | 37 | 181 |
+| 360d | 2025-09-25 | 10 | 301 | 52 | 50 | 46 | 302 |
+| last720d | 2024-09-30 | 18 | 578 | 53 | 146 | 70 | 1049 |
 
 ## Release 资产
 
@@ -121,4 +121,4 @@ cluster-api-provider-aws 的安装元数据由 [x-cmd/install](https://github.co
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:58:13Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:04:40Z._
