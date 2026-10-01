@@ -14,11 +14,11 @@ x install cluster-api-provider-aws
 
 ## Code insight
 
-Total: **262,392** lines of code across **1007** files in the top 5 languages.
+Total: **262,399** lines of code across **1007** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 146,478 | 24,180 | 19,687 | 677 |
+| Go | 146,485 | 24,182 | 19,689 | 677 |
 | Yaml | 112,514 | 633 | 402 | 297 |
 | Sh | 866 | 578 | 262 | 26 |
 | Makefile | 761 | 140 | 227 | 6 |
@@ -42,75 +42,75 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.13.0` (2026-07-29)
+- **Latest**: `v2.11.3` (2026-09-30)
 - **Last commit**: 2026-09-30
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 730 · **Forks**: 711 · **Open issues**: 1,882 · **Contributors**: 686
+- **Stars**: 731 · **Forks**: 711 · **Open issues**: 1,883 · **Contributors**: 686
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 3293 · **Open PRs**: 51 · **Closed issues**: 1709 · **Open issues**: 173 · **Commits**: 5868
+- **Releases**: 105 · **Merged PRs**: 3297 · **Open PRs**: 52 · **Closed issues**: 1709 · **Open issues**: 174 · **Commits**: 5873
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 44 | 13 | 6 | 7 | 23 |
-| last60d | 2026-08-01 | 0 | 55 | 22 | 6 | 8 | 47 |
-| 90d | 2026-07-02 | 2 | 100 | 25 | 11 | 27 | 88 |
-| last180d | 2026-04-03 | 5 | 193 | 35 | 25 | 37 | 178 |
-| 360d | 2025-10-05 | 10 | 312 | 48 | 52 | 47 | 305 |
-| last720d | 2024-10-10 | 18 | 582 | 49 | 144 | 69 | 1053 |
+| 30d | 2026-09-01 | 3 | 45 | 14 | 5 | 8 | 26 |
+| last60d | 2026-08-02 | 3 | 59 | 23 | 6 | 9 | 50 |
+| 90d | 2026-07-03 | 5 | 101 | 26 | 11 | 28 | 91 |
+| last180d | 2026-04-04 | 8 | 197 | 36 | 25 | 38 | 181 |
+| 360d | 2025-10-06 | 13 | 315 | 49 | 52 | 48 | 308 |
+| last720d | 2024-10-11 | 21 | 585 | 50 | 143 | 70 | 1058 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [AWSIAMManagedPolicyCloudProviderControlPlane.json](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/AWSIAMManagedPolicyCloudProviderControlPlane.json) | 3.2 KiB | `other` |
-| [AWSIAMManagedPolicyCloudProviderNodes.json](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/AWSIAMManagedPolicyCloudProviderNodes.json) | 1.7 KiB | `other` |
-| [AWSIAMManagedPolicyControllers.json](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/AWSIAMManagedPolicyControllers.json) | 7.9 KiB | `other` |
-| [AWSIAMManagedPolicyControllersWithEKS.json](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/AWSIAMManagedPolicyControllersWithEKS.json) | 7.9 KiB | `other` |
-| [AWSIAMManagedPolicyControllersWithS3.json](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/AWSIAMManagedPolicyControllersWithS3.json) | 8.3 KiB | `other` |
-| [CHANGELOG.md](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/CHANGELOG.md) | 248 B | `other` |
-| [cluster-api-provider-aws_2.13.0_checksums.txt](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-api-provider-aws_2.13.0_checksums.txt) | 1.1 KiB | `other` |
-| [cluster-template-dualstack-ipv4-primary.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-dualstack-ipv4-primary.yaml) | 27.8 KiB | `other` |
-| [cluster-template-dualstack-ipv6-primary.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-dualstack-ipv6-primary.yaml) | 28.7 KiB | `other` |
-| [cluster-template-eks-clusterclass.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-eks-clusterclass.yaml) | 1.9 KiB | `other` |
-| [cluster-template-eks-fargate.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-eks-fargate.yaml) | 1007 B | `other` |
-| [cluster-template-eks-ipv6.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-eks-ipv6.yaml) | 2.4 KiB | `other` |
-| [cluster-template-eks-machinepool.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-eks-machinepool.yaml) | 1.8 KiB | `other` |
-| [cluster-template-eks-managedmachinepool-gpu.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-eks-managedmachinepool-gpu.yaml) | 4.7 KiB | `other` |
-| [cluster-template-eks-managedmachinepool-vpccni.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-eks-managedmachinepool-vpccni.yaml) | 1.7 KiB | `other` |
-| [cluster-template-eks-managedmachinepool.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-eks-managedmachinepool.yaml) | 1.6 KiB | `other` |
-| [cluster-template-eks.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-eks.yaml) | 1.9 KiB | `other` |
-| [cluster-template-flatcar-machinepool.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-flatcar-machinepool.yaml) | 28.3 KiB | `other` |
-| [cluster-template-flatcar.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-flatcar.yaml) | 28.0 KiB | `other` |
-| [cluster-template-ipv6.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-ipv6.yaml) | 28.7 KiB | `other` |
-| [cluster-template-machinepool.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-machinepool.yaml) | 26.2 KiB | `other` |
-| [cluster-template-multitenancy-clusterclass.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-multitenancy-clusterclass.yaml) | 8.1 KiB | `other` |
-| [cluster-template-rosa-machinepool.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-rosa-machinepool.yaml) | 2.9 KiB | `other` |
-| [cluster-template-rosa-role-config.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-rosa-role-config.yaml) | 1.4 KiB | `other` |
-| [cluster-template-rosa.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-rosa.yaml) | 2.3 KiB | `other` |
-| [cluster-template-simple-clusterclass.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template-simple-clusterclass.yaml) | 6.5 KiB | `other` |
-| [cluster-template.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/cluster-template.yaml) | 25.8 KiB | `other` |
-| [clusterawsadm-darwin-amd64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/clusterawsadm-darwin-amd64) | 91.9 MiB | `native/darwin/x64` |
-| [clusterawsadm-darwin-arm64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/clusterawsadm-darwin-arm64) | 82.7 MiB | `native/darwin/arm64` |
-| [clusterawsadm-linux-amd64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/clusterawsadm-linux-amd64) | 89.4 MiB | `native/linux/x64` |
-| [clusterawsadm-linux-arm64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/clusterawsadm-linux-arm64) | 79.6 MiB | `native/linux/arm64` |
-| [clusterawsadm-windows-amd64.exe](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/clusterawsadm-windows-amd64.exe) | 91.2 MiB | `native/win/x64` |
-| [clusterawsadm-windows-arm64.exe](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/clusterawsadm-windows-arm64.exe) | 80.6 MiB | `native/win/arm64` |
-| [clusterctl-aws-darwin-amd64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/clusterctl-aws-darwin-amd64) | 91.9 MiB | `native/darwin/x64` |
-| [clusterctl-aws-darwin-arm64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/clusterctl-aws-darwin-arm64) | 82.7 MiB | `native/darwin/arm64` |
-| [clusterctl-aws-linux-amd64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/clusterctl-aws-linux-amd64) | 89.4 MiB | `native/linux/x64` |
-| [clusterctl-aws-linux-arm64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/clusterctl-aws-linux-arm64) | 79.6 MiB | `native/linux/arm64` |
-| [clusterctl-aws-windows-amd64.exe](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/clusterctl-aws-windows-amd64.exe) | 91.2 MiB | `native/win/x64` |
-| [clusterctl-aws-windows-arm64.exe](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/clusterctl-aws-windows-arm64.exe) | 80.6 MiB | `native/win/arm64` |
-| [infrastructure-components.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/infrastructure-components.yaml) | 1.2 MiB | `other` |
-| [metadata.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/metadata.yaml) | 1.4 KiB | `other` |
-| [rosa-network.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.0/rosa-network.yaml) | 336 B | `other` |
+| [AWSIAMManagedPolicyCloudProviderControlPlane.json](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/AWSIAMManagedPolicyCloudProviderControlPlane.json) | 3.2 KiB | `other` |
+| [AWSIAMManagedPolicyCloudProviderNodes.json](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/AWSIAMManagedPolicyCloudProviderNodes.json) | 1.7 KiB | `other` |
+| [AWSIAMManagedPolicyControllers.json](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/AWSIAMManagedPolicyControllers.json) | 7.9 KiB | `other` |
+| [AWSIAMManagedPolicyControllersWithEKS.json](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/AWSIAMManagedPolicyControllersWithEKS.json) | 7.9 KiB | `other` |
+| [AWSIAMManagedPolicyControllersWithS3.json](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/AWSIAMManagedPolicyControllersWithS3.json) | 8.3 KiB | `other` |
+| [CHANGELOG.md](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/CHANGELOG.md) | 430 B | `other` |
+| [cluster-api-provider-aws_2.13.1_checksums.txt](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-api-provider-aws_2.13.1_checksums.txt) | 1.1 KiB | `other` |
+| [cluster-template-dualstack-ipv4-primary.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-dualstack-ipv4-primary.yaml) | 27.8 KiB | `other` |
+| [cluster-template-dualstack-ipv6-primary.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-dualstack-ipv6-primary.yaml) | 28.7 KiB | `other` |
+| [cluster-template-eks-clusterclass.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-clusterclass.yaml) | 1.9 KiB | `other` |
+| [cluster-template-eks-fargate.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-fargate.yaml) | 1007 B | `other` |
+| [cluster-template-eks-ipv6.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-ipv6.yaml) | 2.4 KiB | `other` |
+| [cluster-template-eks-machinepool.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-machinepool.yaml) | 1.8 KiB | `other` |
+| [cluster-template-eks-managedmachinepool-gpu.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-managedmachinepool-gpu.yaml) | 4.7 KiB | `other` |
+| [cluster-template-eks-managedmachinepool-vpccni.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-managedmachinepool-vpccni.yaml) | 1.7 KiB | `other` |
+| [cluster-template-eks-managedmachinepool.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-managedmachinepool.yaml) | 1.6 KiB | `other` |
+| [cluster-template-eks.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks.yaml) | 1.9 KiB | `other` |
+| [cluster-template-flatcar-machinepool.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-flatcar-machinepool.yaml) | 28.3 KiB | `other` |
+| [cluster-template-flatcar.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-flatcar.yaml) | 28.0 KiB | `other` |
+| [cluster-template-ipv6.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-ipv6.yaml) | 28.7 KiB | `other` |
+| [cluster-template-machinepool.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-machinepool.yaml) | 26.2 KiB | `other` |
+| [cluster-template-multitenancy-clusterclass.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-multitenancy-clusterclass.yaml) | 8.1 KiB | `other` |
+| [cluster-template-rosa-machinepool.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-rosa-machinepool.yaml) | 2.9 KiB | `other` |
+| [cluster-template-rosa-role-config.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-rosa-role-config.yaml) | 1.4 KiB | `other` |
+| [cluster-template-rosa.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-rosa.yaml) | 2.3 KiB | `other` |
+| [cluster-template-simple-clusterclass.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-simple-clusterclass.yaml) | 6.5 KiB | `other` |
+| [cluster-template.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template.yaml) | 25.8 KiB | `other` |
+| [clusterawsadm-darwin-amd64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-darwin-amd64) | 92.0 MiB | `native/darwin/x64` |
+| [clusterawsadm-darwin-arm64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-darwin-arm64) | 82.8 MiB | `native/darwin/arm64` |
+| [clusterawsadm-linux-amd64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-linux-amd64) | 89.4 MiB | `native/linux/x64` |
+| [clusterawsadm-linux-arm64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-linux-arm64) | 79.7 MiB | `native/linux/arm64` |
+| [clusterawsadm-windows-amd64.exe](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-windows-amd64.exe) | 91.2 MiB | `native/win/x64` |
+| [clusterawsadm-windows-arm64.exe](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-windows-arm64.exe) | 80.6 MiB | `native/win/arm64` |
+| [clusterctl-aws-darwin-amd64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterctl-aws-darwin-amd64) | 92.0 MiB | `native/darwin/x64` |
+| [clusterctl-aws-darwin-arm64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterctl-aws-darwin-arm64) | 82.8 MiB | `native/darwin/arm64` |
+| [clusterctl-aws-linux-amd64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterctl-aws-linux-amd64) | 89.4 MiB | `native/linux/x64` |
+| [clusterctl-aws-linux-arm64](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterctl-aws-linux-arm64) | 79.7 MiB | `native/linux/arm64` |
+| [clusterctl-aws-windows-amd64.exe](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterctl-aws-windows-amd64.exe) | 91.2 MiB | `native/win/x64` |
+| [clusterctl-aws-windows-arm64.exe](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterctl-aws-windows-arm64.exe) | 80.6 MiB | `native/win/arm64` |
+| [infrastructure-components.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/infrastructure-components.yaml) | 1.2 MiB | `other` |
+| [metadata.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/metadata.yaml) | 1.4 KiB | `other` |
+| [rosa-network.yaml](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/rosa-network.yaml) | 336 B | `other` |
 
 ## Improve this data
 
@@ -121,4 +121,4 @@ Install metadata for cluster-api-provider-aws lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:39:13Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:55:11Z._
