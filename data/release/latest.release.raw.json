@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 26468,
       "digest": "sha256:0e985724425ae24257fa45fa65f08e10c31c3538032081299f1a499f3e98e9a7",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-30T12:43:56Z",
       "updated_at": "2026-09-30T12:43:56Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template.yaml"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 96426704,
       "digest": "sha256:56942723ae943a8ce28e7dc924053578b8ef4efc4e9abdec865325fbc5d769c6",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-09-30T12:43:47Z",
       "updated_at": "2026-09-30T12:43:51Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-darwin-amd64"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 86785058,
       "digest": "sha256:30dfc26bf952f583bd1b9afd4b91ff81d9fe097322254c343ea9ba312a0fc006",
-      "download_count": 17,
+      "download_count": 20,
       "created_at": "2026-09-30T12:43:38Z",
       "updated_at": "2026-09-30T12:43:42Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-darwin-arm64"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 93757602,
       "digest": "sha256:b629dec12160d9fdebe7651d1bfe3bf01cfe7ef855fe26d4dcd24b8ad9078afe",
-      "download_count": 121,
+      "download_count": 152,
       "created_at": "2026-09-30T12:43:47Z",
       "updated_at": "2026-09-30T12:43:53Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-linux-amd64"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 83558562,
       "digest": "sha256:1aa82e4e904fad85b4557ac30b31aa11665a636d5650c0259ce814d8a3044282",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-09-30T12:43:35Z",
       "updated_at": "2026-09-30T12:43:41Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-linux-arm64"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 95625216,
       "digest": "sha256:01122561797a3ebcceddf742ea2ab8db453f7cb16db13b64b776f78ec6ddbcea",
-      "download_count": 14,
+      "download_count": 17,
       "created_at": "2026-09-30T12:43:42Z",
       "updated_at": "2026-09-30T12:43:46Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-windows-amd64.exe"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 84506112,
       "digest": "sha256:2adc4d919630bb763b037e5440d51439ebf4fe62dc16dae29b35c5ef2286989f",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-30T12:43:43Z",
       "updated_at": "2026-09-30T12:43:46Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-windows-arm64.exe"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 1216277,
       "digest": "sha256:6fb76f0e60ddccad21c726c755bd24d52d227e4336f2b2a7f285e42090a40db1",
-      "download_count": 121,
+      "download_count": 146,
       "created_at": "2026-09-30T12:44:05Z",
       "updated_at": "2026-09-30T12:44:06Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/infrastructure-components.yaml"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 1483,
       "digest": "sha256:5b8f97c9f03ab0f77621bbbbf8b15383c47c63c42f43a523fe4a1da6bd1b3e3a",
-      "download_count": 383,
+      "download_count": 429,
       "created_at": "2026-09-30T12:44:05Z",
       "updated_at": "2026-09-30T12:44:05Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/metadata.yaml"
