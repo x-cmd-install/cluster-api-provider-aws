@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.11.3` (2026-09-30)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-08
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 731 · **Forks**: 715 · **Open issues**: 1,887 · **Contributors**: 691
+- **Stars**: 730 · **Forks**: 716 · **Open issues**: 1,888 · **Contributors**: 691
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 3300 · **Open PRs**: 60 · **Closed issues**: 1710 · **Open issues**: 177 · **Commits**: 5877
+- **Releases**: 105 · **Merged PRs**: 3301 · **Open PRs**: 62 · **Closed issues**: 1710 · **Open issues**: 178 · **Commits**: 5879
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 3 | 37 | 21 | 4 | 11 | 21 |
-| last60d | 2026-08-09 | 3 | 57 | 31 | 6 | 13 | 42 |
-| 90d | 2026-07-10 | 4 | 94 | 35 | 11 | 17 | 85 |
-| last180d | 2026-04-11 | 8 | 195 | 44 | 25 | 41 | 175 |
-| 360d | 2025-10-13 | 13 | 307 | 57 | 53 | 51 | 304 |
-| last720d | 2024-10-18 | 21 | 581 | 58 | 141 | 73 | 1045 |
+| 30d | 2026-09-10 | 3 | 27 | 23 | 4 | 12 | 22 |
+| last60d | 2026-08-11 | 3 | 58 | 32 | 6 | 14 | 43 |
+| 90d | 2026-07-12 | 4 | 95 | 37 | 11 | 18 | 86 |
+| last180d | 2026-04-13 | 8 | 195 | 46 | 25 | 42 | 176 |
+| 360d | 2025-10-15 | 12 | 305 | 59 | 53 | 52 | 305 |
+| last720d | 2024-10-20 | 21 | 582 | 60 | 141 | 74 | 1041 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for cluster-api-provider-aws lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:06:35Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:58:23Z._
