@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3324,
       "digest": "sha256:462e4dcf55402a2b2db702dddfab9a42bde1a76735ce8f1111fcfefbf2c000bf",
-      "download_count": 5,
+      "download_count": 12,
       "created_at": "2026-09-30T12:43:59Z",
       "updated_at": "2026-09-30T12:43:59Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/AWSIAMManagedPolicyCloudProviderControlPlane.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1769,
       "digest": "sha256:891f0cf478f4716e652266c7fc827dcbeb12276362ee715fd6fb90de7745a5d8",
-      "download_count": 5,
+      "download_count": 12,
       "created_at": "2026-09-30T12:44:02Z",
       "updated_at": "2026-09-30T12:44:03Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/AWSIAMManagedPolicyCloudProviderNodes.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8045,
       "digest": "sha256:e55567898e4adef0e34eb616a5345c3dfe84a1a65d18ccc5f57db9217838ebac",
-      "download_count": 6,
+      "download_count": 13,
       "created_at": "2026-09-30T12:43:54Z",
       "updated_at": "2026-09-30T12:43:55Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/AWSIAMManagedPolicyControllers.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8045,
       "digest": "sha256:e55567898e4adef0e34eb616a5345c3dfe84a1a65d18ccc5f57db9217838ebac",
-      "download_count": 6,
+      "download_count": 13,
       "created_at": "2026-09-30T12:44:03Z",
       "updated_at": "2026-09-30T12:44:03Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/AWSIAMManagedPolicyControllersWithEKS.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8508,
       "digest": "sha256:1404b4efba3958c9dd77d0311b4ae9ed609edc9f22112f2ca636aaa24098cc09",
-      "download_count": 5,
+      "download_count": 12,
       "created_at": "2026-09-30T12:44:04Z",
       "updated_at": "2026-09-30T12:44:05Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/AWSIAMManagedPolicyControllersWithS3.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 430,
       "digest": "sha256:f05f2ee751ed09d07f8fae89f4eec27088aa14f1293fbf2be924a25a0590a3aa",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-09-30T12:44:00Z",
       "updated_at": "2026-09-30T12:44:01Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/CHANGELOG.md"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1138,
       "digest": "sha256:932642a4545cdc8822b20f7e58d74aaff8fbadaf972f2500996c326ea3eb3fb7",
-      "download_count": 6,
+      "download_count": 14,
       "created_at": "2026-09-30T12:43:52Z",
       "updated_at": "2026-09-30T12:43:52Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-api-provider-aws_2.13.1_checksums.txt"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 28438,
       "digest": "sha256:d899e67fc0bd22b0065d1c9478b18ced4ed2307f7fe33fc8850749348c082e2f",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-09-30T12:43:56Z",
       "updated_at": "2026-09-30T12:43:57Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-dualstack-ipv4-primary.yaml"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 29351,
       "digest": "sha256:6f925ddf5f41e21e10925723a37e1b9b1814405081db8f9ac746aa8f91c8016f",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-09-30T12:43:59Z",
       "updated_at": "2026-09-30T12:43:59Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-dualstack-ipv6-primary.yaml"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1919,
       "digest": "sha256:c16d22baf7ec8682322d22243e81ea48b7da521baeb19af1a3eef249dc2bff27",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-09-30T12:44:01Z",
       "updated_at": "2026-09-30T12:44:02Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-clusterclass.yaml"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1007,
       "digest": "sha256:3e47ede2cc4b149cf68bfc3412a0f4c5aa2a5783265660aabd21b087af92e4ff",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-09-30T12:44:02Z",
       "updated_at": "2026-09-30T12:44:02Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-fargate.yaml"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 2431,
       "digest": "sha256:cbc407242fc0db2df6bd8154647553e2cd624ab5c210dec69f0e673814c4f8ce",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-09-30T12:43:59Z",
       "updated_at": "2026-09-30T12:44:00Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-ipv6.yaml"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1879,
       "digest": "sha256:9596b25a7764d7ff75d83d85c5187ef2429a64934c36cbe4137bc4a21a465254",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-09-30T12:43:53Z",
       "updated_at": "2026-09-30T12:43:53Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-machinepool.yaml"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4786,
       "digest": "sha256:1fae5d2493fab54f2cd343a2345dc8e8dd3b43fc10ca6ef9c8eb5d31095e697a",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-09-30T12:43:53Z",
       "updated_at": "2026-09-30T12:43:54Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-managedmachinepool-gpu.yaml"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1781,
       "digest": "sha256:0ccaadb6882f66aa883aead94aeffd3c3d9584361865efd22cf5ee3fa7b52ee7",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-09-30T12:43:53Z",
       "updated_at": "2026-09-30T12:43:54Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-managedmachinepool-vpccni.yaml"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1654,
       "digest": "sha256:f004fb0dadde160b3ddd2603ff6ba530ea4f13160069a10b6140f7d7ba7c5363",
-      "download_count": 9,
+      "download_count": 17,
       "created_at": "2026-09-30T12:43:54Z",
       "updated_at": "2026-09-30T12:43:54Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks-managedmachinepool.yaml"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1994,
       "digest": "sha256:097c935acbbb328fbbf8d94c6f859f424dbd648630d98f231fa5cb2b1f65c493",
-      "download_count": 4,
+      "download_count": 10,
       "created_at": "2026-09-30T12:43:55Z",
       "updated_at": "2026-09-30T12:43:55Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-eks.yaml"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 28963,
       "digest": "sha256:e151cb613c09094b4737e73aacc95318085b52247dc879c6743d643ce3feebd9",
-      "download_count": 4,
+      "download_count": 10,
       "created_at": "2026-09-30T12:44:03Z",
       "updated_at": "2026-09-30T12:44:04Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-flatcar-machinepool.yaml"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 28700,
       "digest": "sha256:4ffdfbc9e132dd06df46945b46ef2569033c032016a373517e20dbbb405011ed",
-      "download_count": 4,
+      "download_count": 10,
       "created_at": "2026-09-30T12:43:58Z",
       "updated_at": "2026-09-30T12:43:58Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-flatcar.yaml"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 29400,
       "digest": "sha256:9cbbd373ba1317396562760e5190b811132a69c6f718fc564b9a00e19fb0be3e",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-09-30T12:43:58Z",
       "updated_at": "2026-09-30T12:43:59Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-ipv6.yaml"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 26825,
       "digest": "sha256:4d013c01190888dfb288d472b4191302f0bce157c93ef7d9251e957277413ca4",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-09-30T12:43:56Z",
       "updated_at": "2026-09-30T12:43:57Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-machinepool.yaml"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 8337,
       "digest": "sha256:308640eebfe91a2683fcd22653b972a47d883cb8711cd06352818b628b39b406",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-09-30T12:44:02Z",
       "updated_at": "2026-09-30T12:44:02Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-multitenancy-clusterclass.yaml"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 3019,
       "digest": "sha256:ef5cde0318334c424586f691d36f00e44121e8c5e8f77670d540691005873405",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-09-30T12:44:04Z",
       "updated_at": "2026-09-30T12:44:04Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-rosa-machinepool.yaml"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 1468,
       "digest": "sha256:07b9040ba8365e6223a454701798f78f7710d1d52de2c2a2a00e17f92965a033",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-09-30T12:43:55Z",
       "updated_at": "2026-09-30T12:43:56Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-rosa-role-config.yaml"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 2386,
       "digest": "sha256:f493fd1c55102c96b88a8411a14d1dc9c85cda369109a6a7eadbaec2c837ac0b",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-09-30T12:44:00Z",
       "updated_at": "2026-09-30T12:44:01Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-rosa.yaml"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 6679,
       "digest": "sha256:2dabbbb9caef29338bbfe7e926180e4c79b8b96067f968e79960834776ed2869",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-09-30T12:43:57Z",
       "updated_at": "2026-09-30T12:43:58Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template-simple-clusterclass.yaml"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 26468,
       "digest": "sha256:0e985724425ae24257fa45fa65f08e10c31c3538032081299f1a499f3e98e9a7",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-09-30T12:43:56Z",
       "updated_at": "2026-09-30T12:43:56Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/cluster-template.yaml"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 96426704,
       "digest": "sha256:56942723ae943a8ce28e7dc924053578b8ef4efc4e9abdec865325fbc5d769c6",
-      "download_count": 54,
+      "download_count": 65,
       "created_at": "2026-09-30T12:43:47Z",
       "updated_at": "2026-09-30T12:43:51Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-darwin-amd64"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 86785058,
       "digest": "sha256:30dfc26bf952f583bd1b9afd4b91ff81d9fe097322254c343ea9ba312a0fc006",
-      "download_count": 82,
+      "download_count": 100,
       "created_at": "2026-09-30T12:43:38Z",
       "updated_at": "2026-09-30T12:43:42Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-darwin-arm64"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 93757602,
       "digest": "sha256:b629dec12160d9fdebe7651d1bfe3bf01cfe7ef855fe26d4dcd24b8ad9078afe",
-      "download_count": 485,
+      "download_count": 594,
       "created_at": "2026-09-30T12:43:47Z",
       "updated_at": "2026-09-30T12:43:53Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-linux-amd64"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 83558562,
       "digest": "sha256:1aa82e4e904fad85b4557ac30b31aa11665a636d5650c0259ce814d8a3044282",
-      "download_count": 90,
+      "download_count": 127,
       "created_at": "2026-09-30T12:43:35Z",
       "updated_at": "2026-09-30T12:43:41Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-linux-arm64"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 95625216,
       "digest": "sha256:01122561797a3ebcceddf742ea2ab8db453f7cb16db13b64b776f78ec6ddbcea",
-      "download_count": 75,
+      "download_count": 96,
       "created_at": "2026-09-30T12:43:42Z",
       "updated_at": "2026-09-30T12:43:46Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-windows-amd64.exe"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 84506112,
       "digest": "sha256:2adc4d919630bb763b037e5440d51439ebf4fe62dc16dae29b35c5ef2286989f",
-      "download_count": 23,
+      "download_count": 28,
       "created_at": "2026-09-30T12:43:43Z",
       "updated_at": "2026-09-30T12:43:46Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterawsadm-windows-arm64.exe"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 96426720,
       "digest": "sha256:b09786258ba0b3e4a5caa265ca76411a304e19dd2cce641bf51b93e7952b20f9",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-09-30T12:43:25Z",
       "updated_at": "2026-09-30T12:43:31Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterctl-aws-darwin-amd64"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 86785074,
       "digest": "sha256:5d9051549b8bb7c2abf20c040c3cc62ea2881a61f083080655dd8df8e065c795",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-09-30T12:43:26Z",
       "updated_at": "2026-09-30T12:43:30Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterctl-aws-darwin-arm64"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 93757602,
       "digest": "sha256:b87d6b0076972adaf6ce8e8a37cf588791f824311fe9c6315d5686a9b3028306",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-09-30T12:43:20Z",
       "updated_at": "2026-09-30T12:43:25Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterctl-aws-linux-amd64"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 83558562,
       "digest": "sha256:a244f13a48aa3abc4db074dbe2626c704cb9b28f295cf92ed5774dcdb642f0f4",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-09-30T12:43:20Z",
       "updated_at": "2026-09-30T12:43:25Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterctl-aws-linux-arm64"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 95625216,
       "digest": "sha256:e2f8a3f738d53b790ffebf1b7bebcc3a5f629e6c96b6a93b644057e59010de42",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-30T12:43:30Z",
       "updated_at": "2026-09-30T12:43:36Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterctl-aws-windows-amd64.exe"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 84506112,
       "digest": "sha256:077a8f94ecd60e659d236be4646945f6449718a582ececd62d00f30eccc4e8b6",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-30T12:43:31Z",
       "updated_at": "2026-09-30T12:43:35Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/clusterctl-aws-windows-arm64.exe"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 1216277,
       "digest": "sha256:6fb76f0e60ddccad21c726c755bd24d52d227e4336f2b2a7f285e42090a40db1",
-      "download_count": 262,
+      "download_count": 325,
       "created_at": "2026-09-30T12:44:05Z",
       "updated_at": "2026-09-30T12:44:06Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/infrastructure-components.yaml"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 1483,
       "digest": "sha256:5b8f97c9f03ab0f77621bbbbf8b15383c47c63c42f43a523fe4a1da6bd1b3e3a",
-      "download_count": 1065,
+      "download_count": 1351,
       "created_at": "2026-09-30T12:44:05Z",
       "updated_at": "2026-09-30T12:44:05Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/metadata.yaml"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 336,
       "digest": "sha256:eb13af3ae422a33d0541be706771a6af86798c59b984cc4fbf7aab34cf2ffa57",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-30T12:43:57Z",
       "updated_at": "2026-09-30T12:43:58Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/download/v2.13.1/rosa-network.yaml"
