@@ -14,12 +14,12 @@ x install cluster-api-provider-aws
 
 ## Code insight
 
-Total: **262,936** lines of code across **1012** files in the top 5 languages.
+Total: **264,383** lines of code across **1014** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 147,022 | 24,536 | 19,902 | 682 |
-| Yaml | 112,514 | 633 | 402 | 297 |
+| Go | 147,653 | 24,733 | 20,008 | 684 |
+| Yaml | 113,330 | 633 | 402 | 297 |
 | Sh | 866 | 578 | 262 | 26 |
 | Makefile | 761 | 140 | 227 | 6 |
 | Css | 472 | 43 | 73 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.11.3` (2026-09-30)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-12
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 730 · **Forks**: 717 · **Open issues**: 1,889 · **Contributors**: 691
+- **Stars**: 730 · **Forks**: 717 · **Open issues**: 1,889 · **Contributors**: 692
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 3301 · **Open PRs**: 63 · **Closed issues**: 1710 · **Open issues**: 179 · **Commits**: 5879
+- **Releases**: 105 · **Merged PRs**: 3302 · **Open PRs**: 61 · **Closed issues**: 1711 · **Open issues**: 178 · **Commits**: 5882
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 3 | 25 | 24 | 3 | 12 | 9 |
-| last60d | 2026-08-13 | 3 | 57 | 32 | 6 | 15 | 42 |
-| 90d | 2026-07-14 | 4 | 94 | 38 | 10 | 19 | 82 |
-| last180d | 2026-04-15 | 8 | 193 | 47 | 25 | 42 | 164 |
-| 360d | 2025-10-17 | 12 | 305 | 59 | 52 | 53 | 302 |
-| last720d | 2024-10-22 | 21 | 580 | 61 | 141 | 74 | 1040 |
+| 30d | 2026-09-13 | 3 | 26 | 23 | 3 | 12 | 11 |
+| last60d | 2026-08-14 | 3 | 58 | 30 | 6 | 15 | 44 |
+| 90d | 2026-07-15 | 4 | 95 | 35 | 10 | 17 | 84 |
+| last180d | 2026-04-16 | 8 | 188 | 45 | 26 | 41 | 166 |
+| 360d | 2025-10-18 | 12 | 306 | 57 | 53 | 52 | 304 |
+| last720d | 2024-10-23 | 21 | 581 | 59 | 142 | 72 | 1041 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for cluster-api-provider-aws lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:16:48Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:52:45Z._
