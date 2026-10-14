@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 730 · **Forks**: 717 · **Open issues**: 1,889 · **Contributors**: 692
+- **Stars**: 730 · **Forks**: 717 · **Open issues**: 1,889 · **Contributors**: 693
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 3 | 26 | 23 | 3 | 12 | 11 |
-| last60d | 2026-08-14 | 3 | 58 | 30 | 6 | 15 | 44 |
-| 90d | 2026-07-15 | 4 | 95 | 35 | 10 | 17 | 84 |
-| last180d | 2026-04-16 | 8 | 188 | 45 | 26 | 41 | 166 |
-| 360d | 2025-10-18 | 12 | 306 | 57 | 53 | 52 | 304 |
-| last720d | 2024-10-23 | 21 | 581 | 59 | 142 | 72 | 1041 |
+| 30d | 2026-09-14 | 3 | 21 | 23 | 2 | 12 | 11 |
+| last60d | 2026-08-15 | 3 | 58 | 30 | 6 | 15 | 44 |
+| 90d | 2026-07-16 | 4 | 93 | 35 | 10 | 17 | 84 |
+| last180d | 2026-04-17 | 8 | 185 | 45 | 26 | 41 | 166 |
+| 360d | 2025-10-19 | 12 | 306 | 57 | 53 | 52 | 304 |
+| last720d | 2024-10-24 | 21 | 580 | 59 | 141 | 72 | 1037 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for cluster-api-provider-aws lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:52:45Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:57:38Z._
