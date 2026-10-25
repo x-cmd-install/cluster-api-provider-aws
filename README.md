@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 3311 · **Open PRs**: 64 · **Closed issues**: 1718 · **Open issues**: 173 · **Commits**: 5895
+- **Releases**: 105 · **Merged PRs**: 3311 · **Open PRs**: 65 · **Closed issues**: 1718 · **Open issues**: 173 · **Commits**: 5895
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 3 | 15 | 25 | 0 | 11 | 12 |
-| last60d | 2026-08-25 | 3 | 64 | 35 | 6 | 16 | 48 |
-| 90d | 2026-07-26 | 4 | 81 | 39 | 6 | 19 | 70 |
-| last180d | 2026-04-27 | 5 | 166 | 48 | 23 | 42 | 165 |
-| 360d | 2025-10-29 | 12 | 309 | 59 | 54 | 49 | 311 |
-| last720d | 2024-11-03 | 20 | 581 | 62 | 145 | 64 | 1038 |
+| 30d | 2026-09-25 | 3 | 15 | 26 | 0 | 11 | 5 |
+| last60d | 2026-08-26 | 3 | 64 | 34 | 6 | 16 | 41 |
+| 90d | 2026-07-27 | 4 | 77 | 40 | 6 | 19 | 63 |
+| last180d | 2026-04-28 | 5 | 166 | 49 | 23 | 42 | 163 |
+| 360d | 2025-10-30 | 12 | 309 | 60 | 54 | 49 | 310 |
+| last720d | 2024-11-04 | 20 | 577 | 63 | 144 | 64 | 1038 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for cluster-api-provider-aws lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:36:20Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:46:40Z._
