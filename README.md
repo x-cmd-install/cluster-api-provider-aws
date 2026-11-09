@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 12 | 22 | 0 | 11 | 8 |
-| last60d | 2026-09-09 | 3 | 47 | 40 | 5 | 22 | 28 |
-| 90d | 2026-08-10 | 3 | 73 | 48 | 7 | 24 | 57 |
-| last180d | 2026-05-12 | 5 | 160 | 57 | 25 | 46 | 161 |
-| 360d | 2025-11-13 | 12 | 311 | 69 | 54 | 55 | 306 |
-| last720d | 2024-11-18 | 20 | 579 | 72 | 144 | 71 | 1040 |
+| 30d | 2026-10-10 | 0 | 12 | 22 | 0 | 10 | 8 |
+| last60d | 2026-09-10 | 3 | 41 | 40 | 5 | 22 | 28 |
+| 90d | 2026-08-11 | 3 | 72 | 48 | 7 | 24 | 57 |
+| last180d | 2026-05-13 | 5 | 160 | 56 | 25 | 45 | 161 |
+| 360d | 2025-11-14 | 12 | 307 | 69 | 53 | 55 | 306 |
+| last720d | 2024-11-19 | 20 | 579 | 72 | 143 | 71 | 1040 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for cluster-api-provider-aws lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:02:20Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:22:15Z._
