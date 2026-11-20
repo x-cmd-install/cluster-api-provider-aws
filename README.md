@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.11.3` (2026-09-30)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-19
 - **Assets in release**: 42
 
 ## Popularity
 
-- **Stars**: 730 · **Forks**: 728 · **Open issues**: 1,901 · **Contributors**: 706
+- **Stars**: 731 · **Forks**: 729 · **Open issues**: 1,902 · **Contributors**: 706
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 3333 · **Open PRs**: 72 · **Closed issues**: 1723 · **Open issues**: 178 · **Commits**: 5948
+- **Releases**: 105 · **Merged PRs**: 3334 · **Open PRs**: 74 · **Closed issues**: 1723 · **Open issues**: 179 · **Commits**: 5950
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 23 | 19 | 0 | 11 | 21 |
-| last60d | 2026-09-20 | 3 | 39 | 38 | 2 | 20 | 40 |
-| 90d | 2026-08-21 | 3 | 85 | 46 | 9 | 24 | 81 |
-| last180d | 2026-05-23 | 5 | 172 | 56 | 27 | 45 | 179 |
-| 360d | 2025-11-24 | 12 | 312 | 68 | 55 | 53 | 317 |
-| last720d | 2024-11-29 | 20 | 590 | 70 | 142 | 69 | 1076 |
+| 30d | 2026-10-21 | 0 | 20 | 21 | 0 | 11 | 22 |
+| last60d | 2026-09-21 | 3 | 39 | 40 | 1 | 21 | 41 |
+| 90d | 2026-08-22 | 3 | 86 | 48 | 9 | 25 | 82 |
+| last180d | 2026-05-24 | 5 | 173 | 58 | 27 | 46 | 180 |
+| 360d | 2025-11-25 | 12 | 313 | 70 | 53 | 54 | 318 |
+| last720d | 2024-11-30 | 20 | 591 | 72 | 142 | 70 | 1078 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for cluster-api-provider-aws lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:47:22Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:57:38Z._
